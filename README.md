@@ -1,3 +1,10 @@
+##MuhammadSaad's Contribution
+I made a new page ProductCard.jsx
+I called fakestore API to show products.
+I used MaterialUI to create attractive and responsive cards by keeping UI/UX rules in mind.
+As the API call doesn't provide INSTOCK/OUTOFSTOCK value so I used ratings to give the instock text colors. I can my own API as well where we can give INSTOCK/OUTOFSTOCK Values.
+
+
 ## Run Locally
 
 Clone the project
